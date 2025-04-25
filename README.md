@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a **React frontend developer** with a passion for building dynamic and user-friendly interfaces. I’m also diving into **Python full-stack development** and working on improving my backend skills.
 
-## 👀 I'm interested in...
+##  I'm interested in...
 - **Frontend development** using **React**, **HTML**, **CSS**, and **JavaScript**
 - **Full-stack development** with **Python** (learning Django and Flask)
 - **UI/UX design** to create seamless and engaging user experiences

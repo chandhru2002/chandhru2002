@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a **React frontend developer** with a passion for buil
 - [**Laundry Lite**](https://laundrylite.in/):
 - [**Uituthra**](https://uituthra.in/):
 - [**UCAS**](https://ucas.ac.in/):
-- [**Surya Constructions**](https://suryaconstructions.com/): A single-page craete need to know construction company website.
+- [**Surya Constructions**](https://srisuryaconstructions.com/): A single-page craete need to know construction company website.
 - [**Aspire Holidays**](https://aspireholidays.in/): Package listing page for a travel website.
 
 ## 🔨 Currently working on:

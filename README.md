@@ -35,8 +35,6 @@ Welcome to my GitHub! I'm a **React frontend developer** with a passion for buil
 - Email: [chandhru0099@gmail.com]
 - Or feel free to open an issue or send me a message here on GitHub!
 
-##  Pronouns: He/Him
-
 ## Fun fact:
 - I've completed **5+ React projects**, including a **BMDT CRM project**!
 - I'm passionate about making complex things simple and intuitive through design and development.
